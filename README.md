@@ -23,7 +23,7 @@ We explored three different machine learning approaches, applying hyperparameter
 
 ## 🛠️ Tech Stack & Libraries
 * **Language**: Python 🐍
-* **Environment**: Google Colab / Jupyter Notebooks 🚀
+* **Environment**: Google Colab 🚀
 * **Libraries**: 
   * `scikit-learn` (Model training, evaluation metrics, scaling, and hyperparameter tuning)
   * `pandas` & `numpy` (Data manipulation, cleaning, and matrix operations)
