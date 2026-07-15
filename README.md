@@ -1,6 +1,6 @@
 # Student Grade Prediction - Machine Learning Classification 🎓📊
 
-This repository contains a supervised Machine Learning project developed for the ** Machine Learning ** course . The goal of this project is to predict secondary school students' final mathematics grades ("Pass" or "Fail") using demographic, social, and academic attributes from the **UCI Student Performance Dataset**.
+This repository contains a supervised Machine Learning project developed for the **Machine Learning** course . The goal of this project is to predict secondary school students' final mathematics grades ("Pass" or "Fail") using demographic, social, and academic attributes from the **UCI Student Performance Dataset**.
 
 We implemented, optimized, and compared three supervised classification algorithms to find the most accurate model for predicting student success.
 
